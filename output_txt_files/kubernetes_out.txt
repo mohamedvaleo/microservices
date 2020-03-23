@@ -1,0 +1,14 @@
+    {
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
+NAME                           READY   STATUS    RESTARTS   AGE
+api-project-7d75687564-5rqjp   1/1     Running   0          5m45s
+
+kubectl port-forward deployment/$dockerpath 8000:80
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
