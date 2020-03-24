@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/gh/mohamedvaleo/microservices.svg?style=svg
 
 ## Project Overview
 
